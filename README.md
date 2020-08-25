@@ -3,7 +3,7 @@ It's a phishing page generator for freefire
 
 Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://instagram.com/anubhavanonymous>Anubhav Kashyap</a>
 
-##Usage
+## Usage
 Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/Freephish
