@@ -21,7 +21,7 @@ Run it
 ./freephish.sh
 ```
 
-##Note
+## Note
 In phones you will have to turn on mobile hotspot
 
 Enjoy⚡
