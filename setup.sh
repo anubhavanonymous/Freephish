@@ -18,6 +18,7 @@ apt install jq -y
 apt install tail -y
 apt install curl -y
 apt install wget
+rm ngrok
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 rm ngrok-stable-linux-arm.zip
