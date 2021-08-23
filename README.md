@@ -18,7 +18,7 @@ bash setup.sh
 ```
 Run it 
 ```bash
-./freephish.sh
+bash freephish.sh
 ```
 
 ## Note
